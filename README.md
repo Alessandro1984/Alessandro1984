@@ -4,6 +4,4 @@
 - 🤖 Recently, I deepened my expertise in machine learning and deep learning using Python, applying these skills to forecast inflation with deep learning techniques.  
 - 📊 Currently, I teach courses in Economics, Econometrics, and Data Analysis with R and Python.
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Alessandro1984&theme=highcontrast&show_icons=true&count_private=true)
-
 
