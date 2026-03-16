@@ -1,7 +1,9 @@
 ### Hi everyone! I am <a href="https://www.alessandrobramucci.com/" target="_blank">Alessandro</a> 👋😃
 
-- 💻 I have over five years of experience in academic projects focused on interactive macroeconomics education. These projects are developed entirely in R and RStudio.  
-- 🤖 Recently, I deepened my expertise in machine learning and deep learning using Python, applying these skills to forecast inflation with deep learning techniques.  
-- 📊 Currently, I teach courses in Economics, Econometrics, and Data Analysis with R and Python.
+- 💻 I am an Economist interested in Data Science. I am passionate about data and in particular macroeconomic data.
+- 👨‍🏫 I have 8+ years of experience in teaching courses in Economics, Econometrics, R and Python.
+- 🤖 Previously, I worked on academic projects aimed at creating interactive contents for students. The projects were developed entirely in R. 
+- 🐍 More recently, I had the opportunity to expand my skills in machine learning and deep learning with Python.
+- 🚀 My goal is to combine my knowledge of Macroeconomics with my interest in Data Science.
 
 
